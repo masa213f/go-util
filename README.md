@@ -1,2 +1,3 @@
 # go-util
-a personal helper library for go
+
+go-util is a personal helper library for go.
